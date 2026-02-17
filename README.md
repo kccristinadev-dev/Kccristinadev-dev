@@ -7,10 +7,15 @@
 ​Projeto gestão de indicadores logísticos: axilia no controle de estoque com análise de indicadores de Giro, Ruptura, cobertura de estoque(dias) e Consumo Médio.
 
 ​💻 Tecnologias & Ferramentas:
+
 ​HTML5, CSS3 e JavaScript.
-​Canvas API (para gráficos dinâmicos).
+
+Canvas API (para gráficos dinâmicos).
+
 ​Modelagem de Dados (MySQL / brModelo).
-​Gestão de Estoque e Logística Administrativa.
+
+​Gestão de Estoque e Logística 
+Administrativa.
 
 ​📫 Como me encontrar:
 
