@@ -1,5 +1,6 @@
 ​Olá, eu sou a kethelyn! 👋
 ​Estudante de logística e desenvolvimento de sistemas.
+
  Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc.
 
 ​🛠️ No que estou trabalhando agora:
@@ -15,5 +16,6 @@
 
 LinkedIn:
 ​linkedin.com/in/kethelyn-cristina-142350390
-​
+
+
 E-mail: cristina.kc202@gmail.com
