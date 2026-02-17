@@ -3,7 +3,7 @@
 
  Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc.
 
-​🛠️ No que estou trabalhando agora:
+​🛠️  Estou trabalhando agora em um projeto pessoal:
 ​Projeto gestão de indicadores logísticos: axilia no controle de estoque com análise de indicadores de Giro, Ruptura, cobertura de estoque(dias) e Consumo Médio.
 
 ​💻 Tecnologias & Ferramentas:
