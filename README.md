@@ -12,6 +12,8 @@
 ​Gestão de Estoque e Logística Administrativa.
 
 ​📫 Como me encontrar:
-LinkedIn: ​linkedin.com/in/kethelyn-cristina-142350390
+
+LinkedIn:
+​linkedin.com/in/kethelyn-cristina-142350390
 ​
 E-mail: cristina.kc202@gmail.com
