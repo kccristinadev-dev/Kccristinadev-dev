@@ -1,7 +1,7 @@
 ​Olá, eu sou a kethelyn! 👋
 ​Estudante de logística e desenvolvimento de sistemas.
 
- Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc enquanto busco oportunidads de emprego.
+ Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc. Enquanto busco oportunidade de emprego.
 
 ​🛠️  Estou trabalhando em um projeto pessoal:
 ​Projeto gestão de indicadores logísticos ele axilia no controle de estoque com análise de indicadores de Giro, Ruptura, cobertura de estoque(dias) e Consumo Médio.
