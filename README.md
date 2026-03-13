@@ -19,7 +19,7 @@ Administrativa.
 
 ​📫 Como me encontrar:
 
-LinkedIn:
+LinkedIn: 
 ​linkedin.com/in/kethelyn-cristina-142350390
 
 
