@@ -17,4 +17,3 @@ Canvas API (para gráficos dinâmicos).
 ​Gestão de Estoque e Logística 
 Administrativa.
 
-https://api.github.com/users/kccristinadev-dev
