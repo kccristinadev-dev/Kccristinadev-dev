@@ -17,4 +17,4 @@ Canvas API (para gráficos dinâmicos).
 ​Gestão de Estoque e Logística 
 Administrativa.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kccristinadev-dev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kccristinadev-dev)](https://github.com/kccristinadev-dev/github-readme-stats)
