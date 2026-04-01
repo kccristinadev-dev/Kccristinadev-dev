@@ -1,7 +1,7 @@
 ​Olá, eu sou a kethelyn! 👋
 ​Estudante de logística e desenvolvimento de sistemas.
 
- Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc. Enquanto busco oportunidade de emprego.
+ Atualmente, estou desenvolvendo projetos pessoais, um sistema de gestão de estoque focado em facilitar a vida de microempreendedores, site de e-commerce,  etc, busco oportunidade de emprego para botar mes conjjecimentos em prática.
 
 ​🛠️  Estou trabalhando em um projeto pessoal:
 ​Projeto gestão de indicadores logísticos ele axilia no controle de estoque com análise de indicadores de Giro, Ruptura, cobertura de estoque(dias) e Consumo Médio.
@@ -17,10 +17,4 @@ Canvas API (para gráficos dinâmicos).
 ​Gestão de Estoque e Logística 
 Administrativa.
 
-​📫 Como me encontrar:
-
-LinkedIn: 
-​linkedin.com/in/kethelyn-cristina-142350390
-
-
-E-mail: cristina.kc202@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kccristinadev-dev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
