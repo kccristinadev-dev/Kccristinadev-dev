@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="bainer.png" width="100%">
 </p>
 Sou estudante de Desenvolvimento de Sistemas e Logística.
 
