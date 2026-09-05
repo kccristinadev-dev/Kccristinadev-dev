@@ -18,9 +18,12 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 
 - PHP
 - Java
+- C#
+- Net.MAUI
 - JavaScript
 - HTML
 - CSS
+- sql 
 
 ## Dados
 
