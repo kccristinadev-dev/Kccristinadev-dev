@@ -7,9 +7,7 @@ Atualmente estou construindo minha experiência em desenvolvimento de software a
 
 Meu interesse principal está em entender como sistemas funcionam por trás da interface, especialmente a parte de backend, bancos de dados e lógica de negócio.
 
-O que estou construindo
-
-Tenho trabalhado principalmente em projetos que tentam resolver problemas concretos, em vez de apenas reproduzir exercícios.
+# O que estou construindo
 
 Um dos meus projetos principais é um sistema de gestão logística, envolvendo controle de produtos, estoque, pedidos, clientes e entregas. A ideia é aplicar desenvolvimento de sistemas a uma área que também estudo profissionalmente: logística.
 
