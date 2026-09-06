@@ -79,10 +79,11 @@ Aplicação para cálculo e acompanhamento de indicadores relacionados ao estoqu
 • Construindo projetos e estudando desenvolvimento de software
 •  Buscando minha primeira oportunidade profissional.
 
+
+
 <div align="center">
 
-
- <h4>GitHub Stats</h4>
+<h4>GitHub Stats</h4>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
@@ -91,12 +92,12 @@ Aplicação para cálculo e acompanhamento de indicadores relacionados ao estoqu
 
 <br/>
 <br/>
-</td>
 
-### 📊 Statistics
+<h4>📊 Statistics</h4>
 
-<img 
+<img
   src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   alt="GitHub Streak"
 />
+
 </div>
