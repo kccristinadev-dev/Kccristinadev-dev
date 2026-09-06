@@ -40,7 +40,7 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 - Draw.io
 
 <div align="center">
-<td width="50%" align="center">
+
   <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=kccristinadev-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
 
 <h4>GitHub Stats</h4>
