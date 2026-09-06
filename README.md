@@ -40,31 +40,9 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 - Draw.io
 
 <div align="center">
-
 <td width="50%" align="center">
   <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=kccristinadev-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
-
-  <h4>GitHub Stats</h4>
-
-  
-    <img 
-  src="https://github-readme-stats.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-  alt="GitHub Stats"
-  />
-
-<br/>
-<br/>
-</td>
-
-### 📊 Statistics
-
-<img 
-  src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
-  alt="GitHub Streak"
-/>
-
 </div>
-
 
 # No que estou focando
 
@@ -99,4 +77,25 @@ Aplicação para cálculo e acompanhamento de indicadores relacionados ao estoqu
 • Técnico em Desenvolvimento de Sistemas
 •  Técnico em Logística
 • Construindo projetos e estudando desenvolvimento de software
-•  Buscando minha primeira oportunidade profissional na área
+•  Buscando minha primeira oportunidade profissional.
+
+<div align="center">
+
+
+  <h4>GitHub Stats</h4>
+    <img 
+  src="https://github-readme-stats.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  alt="GitHub Stats"
+  />
+
+<br/>
+<br/>
+</td>
+
+### 📊 Statistics
+
+<img 
+  src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+</div>
