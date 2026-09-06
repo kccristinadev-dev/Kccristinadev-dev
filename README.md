@@ -39,6 +39,30 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 - GitHub Codespaces
 - Draw.io
 
+<div align="center">
+
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=kccristinadev-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" />
+
+  <h4>GitHub Stats</h4>
+
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+
+<br/>
+<br/>
+</td>
+
+### 📊 Statistics
+
+<img 
+  src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+
+</div>
 # No que estou focando
 
  Atualmente estou aprofundando meus conhecimentos em:
