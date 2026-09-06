@@ -82,8 +82,9 @@ Aplicação para cálculo e acompanhamento de indicadores relacionados ao estoqu
 <div align="center">
 
 
-  <h4>GitHub Stats</h4>
-  <img
+ <h4>GitHub Stats</h4>
+
+<img
   src="https://github-readme-stats.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   alt="GitHub Stats"
 />
