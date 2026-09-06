@@ -46,9 +46,10 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 
   <h4>GitHub Stats</h4>
 
-  <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats"
+  
+    <img 
+  src="https://github-readme-stats.vercel.app/api?username=kccristinadev-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  alt="GitHub Stats"
   />
 
 <br/>
