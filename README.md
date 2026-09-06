@@ -15,17 +15,44 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 
 # Minha stack
 
-## Desenvolvimento
+<div align="center">
 
-- PHP
-- Java
-- C#
-- Net.MAUI
-- JavaScript
-- HTML
-- CSS
-- sql 
+### 🤖 Languages and Technologies 
 
+<br/>
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C/C++-000000?style=for-the-badge&logo=C&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/>
+<br/>
+
+### 📚 Currently Learning
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+
+</div>
 ## Dados
 
 - MySQL
