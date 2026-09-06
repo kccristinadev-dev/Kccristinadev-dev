@@ -39,9 +39,9 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 - GitHub Codespaces
 - Draw.io
 
-No que estou focando
+# No que estou focando
 
-# Atualmente estou aprofundando meus conhecimentos em:
+ Atualmente estou aprofundando meus conhecimentos em:
 
 - Desenvolvimento backend
 - Bancos de dados relacionais
