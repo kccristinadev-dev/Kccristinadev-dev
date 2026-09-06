@@ -63,6 +63,8 @@ Também desenvolvo projetos acadêmicos relacionados a acessibilidade, indicador
 />
 
 </div>
+
+
 # No que estou focando
 
  Atualmente estou aprofundando meus conhecimentos em:
