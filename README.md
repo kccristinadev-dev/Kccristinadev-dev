@@ -90,7 +90,7 @@ Aplicação para cálculo e acompanhamento de indicadores relacionados ao estoqu
 <h4>📊 Statistics</h4>
 
 <img
-  src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=#4b0aff&fire=#4b0aff&currStreakLabel=4b0aff&sideLabels=4b0aff&dates=4b0aff&stroke=4b0aff"
+  src="https://streak-stats.demolab.com?user=kccristinadev-dev&theme=dark&hide_border=true&background=000000&ring=#4b0aff&fire=#4b0aff&currStreakLabel=#4b0aff&sideLabels=4b0aff&dates=#4b0aff&stroke=#4b0aff"
   alt="GitHub Streak"
 />
 
