@@ -1,6 +1,7 @@
 <p align="center">
   <img src="bainer.png" width="100%">
 </p>
+
 Sou estudante de Desenvolvimento de Sistemas e Logística.
 
 Atualmente estou construindo minha experiência em desenvolvimento de software através de projetos próprios, trabalhos acadêmicos e experimentação prática.
